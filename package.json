@@ -1,0 +1,9 @@
+{
+  "name": "cloudinary-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel serverless functions for signed Cloudinary uploads (replaces Firebase Cloud Functions)",
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
